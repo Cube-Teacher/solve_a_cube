@@ -710,7 +710,7 @@ while(1):
     
     cv2.imshow('camera', image)
     cv2.waitKey(1)
-    '''
+    
 for it in range(0,4):#完成邊塊
     
     if(it==0):
@@ -979,7 +979,7 @@ for it in range(0,4):#完成角塊
             elif(operation[0]==19 or operation[0]==20):
                 key=1
                
-'''
+
 while (1):#翻到底部
     
     print('第一層已完成')
@@ -1014,7 +1014,7 @@ while (1):#翻到底部
             elif(operation[0]==19 or operation[0]==20):
                 key=1
     break
-'''
+
 for it in range(0,4):
     
     if(it==0):
@@ -1131,7 +1131,7 @@ for it in range(0,4):
                 key=0
             elif(operation[0]==19 or operation[0]==20):
                 key=1
-'''
+
 print('完成第二層')
 
 while (1):#頂面角塊都不是黃色
