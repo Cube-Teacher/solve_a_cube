@@ -1,5 +1,11 @@
 # solve_a_cube
 
+使用說明:
+
+全部需要的照片跟輸入法在雲端:https://drive.google.com/drive/folders/1I2PIgQ2xg60V_WNE0_mkAPBa65iekHaP?usp=sharing
+
+放在跟主程式同個路徑底下
+
 進度:
 
 4/17-可以依序/亂序偵測到六面 顯示魔術方塊初始顏色
